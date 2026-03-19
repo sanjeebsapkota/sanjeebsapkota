@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeebsapkota&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeebsapkota" /> </p>
 
-- 🌱 I’m currently learning **Django Frameworks**
-- - 🌱 I’m currently learning **Python**
+- - 🌱 I’m currently learning **Python, Data And Business Analytics**,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
