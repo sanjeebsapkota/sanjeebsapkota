@@ -26,7 +26,7 @@ I'm always eager to learn, collaborate, and create something awesome. Open to ne
 | 🐍 Python | 📊 Data Analytics | 📈 Business Analytics |
 |:---------:|:-----------------:|:---------------------:|
 | Django, FastAPI, automation | Pandas, Seaborn, NumPy | Dashboards, KPIs, Storytelling |
-| `████████░░` 80% | `██████░░░░` 60% | `████░░░░░░` 60% |
+| `████████░░` 78% | `██████░░░░` 70% | `████░░░░░░` 86% |
 
 ---
 
