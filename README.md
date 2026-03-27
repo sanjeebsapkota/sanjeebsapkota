@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjeeb%20Sapkota&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Kathmandu%2C%20Nepal&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjeeb%20Sapkota&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Django-Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Kathmandu%2C%20Nepal&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C6AFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjeeb+Sapkota;Passionate+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Learning+Python+%26+Data+Analytics+%F0%9F%93%8A;Building+cool+stuff+with+Django+%F0%9F%90%8D)](https://git.io/typing-svg)
 
