@@ -108,10 +108,11 @@ analyst = {
 | 🏆 | Project | Stack | Highlights |
 |:---:|---|---|---|
 | ⭐ | [**SAP B1 Daily Dashboard**](https://github.com/sanjeebsapkota/SAP-B1-Daily-Transaction-Detail-Dashboard) | `Python` `Streamlit` `SAP HANA` `Plotly` | Production BI · MOM/YOY · Forecasting · Multi-company |
+| ☕ | [**Environmental-analytics-dashboard-for-decision-support**](https://github.com/sanjeebsapkota/Environmental-analytics-dashboard-for-decision-support) | `Weather API` `JSON File` `Data Pipeline` | 7 Days Weather Forcast · Weather Trends · Cities Current Weather Details  |
 | 🎯 | [**Customer Segmentation (K-Means)**](https://github.com/sanjeebsapkota/Customer-Segmentation-using-K-Means-Clustering) | `Python` `Scikit-learn` `Seaborn` | ML Clustering · 5 Segments · Marketing Strategy |
 | 📉 | [**Customer Churn Analysis**](https://github.com/sanjeebsapkota/Customer-Churn-Analysis-) | `Python` `Pandas` `Jupyter` | EDA · At-risk Segments · Retention Insights |
 | 🛒 | [**Sales Analytics Dashboard**](https://github.com/sanjeebsapkota/Sales-Analytics-Dashboard-PostgreSQL-Docker-Apache-Superset) | `PostgreSQL` `Superset` `Docker` | Revenue KPIs · Regional Analysis · Segmentation |
-| ☕ | [**Coffee Shop Sales**](https://github.com/sanjeebsapkota/Coffee-Shop-Sales) | `Excel` `Pivot Tables` `Slicers` | $156K Revenue · Hourly Trends · Location Performance |
+
 | 👥 | [**HR Attrition Dashboard**](https://github.com/sanjeebsapkota/HR-Attrition-Analysis-Workforce-Insights-Dashboard-Excel-) | `Excel` `Pivot Charts` | Workforce Analytics · Department Breakdown |
 
 </div>
