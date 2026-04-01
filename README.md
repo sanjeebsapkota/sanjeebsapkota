@@ -112,7 +112,6 @@ analyst = {
 | 🎯 | [**Customer Segmentation (K-Means)**](https://github.com/sanjeebsapkota/Customer-Segmentation-using-K-Means-Clustering) | `Python` `Scikit-learn` `Seaborn` | ML Clustering · 5 Segments · Marketing Strategy |
 | 📉 | [**Customer Churn Analysis**](https://github.com/sanjeebsapkota/Customer-Churn-Analysis-) | `Python` `Pandas` `Jupyter` | EDA · At-risk Segments · Retention Insights |
 | 🛒 | [**Sales Analytics Dashboard**](https://github.com/sanjeebsapkota/Sales-Analytics-Dashboard-PostgreSQL-Docker-Apache-Superset) | `PostgreSQL` `Superset` `Docker` | Revenue KPIs · Regional Analysis · Segmentation |
-
 | 👥 | [**HR Attrition Dashboard**](https://github.com/sanjeebsapkota/HR-Attrition-Analysis-Workforce-Insights-Dashboard-Excel-) | `Excel` `Pivot Charts` | Workforce Analytics · Department Breakdown |
 
 </div>
