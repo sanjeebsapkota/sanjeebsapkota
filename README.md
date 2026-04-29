@@ -108,6 +108,7 @@ analyst = {
 | 🏆 | Project | Stack | Highlights |
 |:---:|---|---|---|
 | ⭐ | [**SAP B1 Daily Dashboard**](https://github.com/sanjeebsapkota/SAP-B1-Daily-Transaction-Detail-Dashboard) | `Python` `Streamlit` `SAP HANA` `Plotly` | Production BI · MOM/YOY · Forecasting · Multi-company |
+| 🛒 | [**Sales Analytics Dashboard**](https://github.com/sanjeebsapkota/Supply-Chain-Analytics-Dashboard-Power-BI) | `Power BI` `HTML` | Revenue KPIs · Regional Analysis · Segmentation ·Shipment · Procurement· Supply Chain Management|
 | ☕ | [**Environmental-analytics-dashboard-for-decision-support**](https://github.com/sanjeebsapkota/Environmental-analytics-dashboard-for-decision-support) | `Weather API` `JSON File` `Data Pipeline` | 7 Days Weather Forcast · Weather Trends · Cities Current Weather Details  |
 | 🎯 | [**Customer Segmentation (K-Means)**](https://github.com/sanjeebsapkota/Customer-Segmentation-using-K-Means-Clustering) | `Python` `Scikit-learn` `Seaborn` | ML Clustering · 5 Segments · Marketing Strategy |
 | 📉 | [**Customer Churn Analysis**](https://github.com/sanjeebsapkota/Customer-Churn-Analysis-) | `Python` `Pandas` `Jupyter` | EDA · At-risk Segments · Retention Insights |
